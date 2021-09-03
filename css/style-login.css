@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.row img {
+    left: 0%;
+    right: 0%;
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    object-fit: cover;
+}
+
+.bg-danger {
+    height: 100%;
+}
+
+.brand {
+    margin-top: 45px;
+    margin-left: 70%;
+    text-decoration: none;
+    font-size: 40px;
+    font-weight: normal;
+    color: #ffc107;
+    font-family: cursive;
+}
+
+.container .loginCard {
+    margin-top: -10px;
+    padding-left: 80px;
+ padding-top: 100px;   
+}
+
+.container .loginCard h3 {
+    font-weight: bold;   
+}
+
+.container form {
+    margin-top: 50px;
+}
+
+.container button {
+    margin-top: 50px;
+    width: 445px;
+}
+
+form .register {
+    justify-content: end;
+    margin-top: 30px;
+}
+
+.container .registerCard {
+    margin-top: -10px;
+    padding-left: 80px;
+    padding-top: 60px;   
+}
+
+.container .registerCard h3 {
+    font-weight: bold;   
+}
